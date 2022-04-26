@@ -1,6 +1,6 @@
 language: csharp
 mono: none
-dotnet: 6.0.4
+dotnet: 6.0
 solution: awstaghelper.sln
 script: 
   - dotnet restore
