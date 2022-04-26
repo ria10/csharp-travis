@@ -10,7 +10,7 @@ deploy:
   local_dir: dpl_cd_upload
   skip_cleanup: true
   on: &2
-    repo: csharp-travis
+    repo: ria10/csharp-travis
   bucket: traviscsharp
   region: eu-west-2
 - provider: codedeploy
